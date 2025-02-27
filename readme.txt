@@ -9,3 +9,5 @@ AUC = 0.81 with MC
 CT input with thick thickness
 Pre-processing: extract brain window, skull stripping, remove boundary, resample
 Segmentation and Prediction: 3D SegResNet model, DenseNet.
+
+from：Uncertainty-aware deep-learning model for prediction of supratentorial hematoma expansion from admission non-contrast head computed tomography scan
